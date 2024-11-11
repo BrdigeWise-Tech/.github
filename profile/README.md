@@ -13,3 +13,17 @@ Steps to get started<br>
 - Make your GitHub profile stand out with this free text/video course by Eddie Jaoude, which also has quiz and certificate<br>
 - Have a look at our Good First Issue Finder project<br>
 - Learn more about GitHub, Open Source <br>
+
+
+<div align="center">
+  
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<a href="https://github.com/GSSoC24/stargazers"><img src="https://img.shields.io/github/stars/GSSoC24" alt="Stars Badge"/></a>
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fgssoc.girlscript.tech%2F)
+![GitHub followers](https://img.shields.io/github/followers/GSSoC24)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCBOlJtDcWNh0aUkS2CfI8Aw)
+<a href=""><img src="https://discord.com/api/guilds/1231112132595028008/widget.png?style=shield"></a>
+[![](https://visitcount.itsvg.in/api?id=contributor-gssoc&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
