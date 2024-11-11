@@ -1,6 +1,6 @@
-name: Invitation to the BrdigeWise-Tech GitHub Community Organization
+name: Invitation to the BridgeWise-Tech GitHub Community Organization
 description: I would like to be part of this community
-title: "Please invite me to the BrdigeWise-Tech GitHub Community Organization"
+title: "Please invite me to the BridgeWise-Tech GitHub Community Organization"
 labels: [invite me to the community]
 body:
   - type: input
@@ -27,4 +27,4 @@ body:
   - type: markdown
     attributes:
       value: |
-        Feel free to check out other cool repositories of the BrdigeWise-Tech Community [here](https://github.com/BrdigeWise-Tech)
+        Feel free to check out other cool repositories of the BridgeWise-Tech Community [here](https://github.com/BridgeWise-Tech)
